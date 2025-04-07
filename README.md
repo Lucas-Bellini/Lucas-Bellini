@@ -22,7 +22,7 @@ Apaixonado por transformar dados em insights valiosos, busco oportunidades para 
 - **Visualização de Dados:** Microsoft Power BI, Excel avançado
 - **Outros:** Git, GitHub, CI/CD, Next.js, React, TypeScript
 
-## 🚀 Projetos em Destaque
+## 🚀 Projeto em Destaque
 
 - **[BELLUM - Sistema Bélico e Logístico de Uso Militar](https://github.com/lucasbellini)**: Sistema integrado desenvolvido em Next.js, React e Supabase para gestão logística e controle de materiais bélicos, garantindo eficiência operacional e segurança.
 
@@ -32,7 +32,7 @@ Apaixonado por transformar dados em insights valiosos, busco oportunidades para 
   PUCRS *(cursando)*
 
 - **Graduação em Ciência de Dados**  
-  Faculdade Descomplica *(conclusão 2024)*
+  Faculdade Descomplica *(conclusão 2025)*
 
 - **Graduação em Gestão Financeira**  
   Faculdade Descomplica *(2024)*
