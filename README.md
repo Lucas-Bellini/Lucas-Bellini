@@ -1,25 +1,57 @@
-<h1 align="center">Hi 👋, I'm Lucas Bellini</h1>
-<h3 align="center">A Data Analyst from Brazil</h3>
+# 👋 Olá, eu sou o Lucas Bellini
 
-- 🔭 I’m currently working on **increasing my portfolio**
+**Analista de Dados | Cientista de Dados | Gestor Financeiro**
 
-- 🌱 I’m currently learning **Microsoft Power BI Data Analyst Professional Certificate**
+Sou Policial Militar atuando no Centro de Materiais Bélicos da Polícia Militar do Estado de São Paulo (PMESP). Tenho graduação em Gestão Financeira (concluída em 2024) e estou atualmente concluindo minha graduação em Ciência de Dados pela Faculdade Descomplica, além de cursar um MBA em Tecnologia para Negócios: Data Science, Big Data e IA pela PUCRS.
 
-- 💬 Ask me about **Data Analysis, Data Cleaning and Data Visualization**
+Apaixonado por transformar dados em insights valiosos, busco oportunidades para atuar na área de ciência e análise de dados, especialmente em posições remotas ou híbridas.
 
-- 📫 How to reach me **lucas_bellini@hotmail.com.br**
+## 🌟 Competências
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lucasbellini](https://www.linkedin.com/in/lucasbellini)
+- **Análise de Dados e Visualização**
+- **Limpeza e Preparação de Dados**
+- **Machine Learning e IA**
+- **Gestão e Controle Logístico**
+- **Automação de Processos**
 
-- ⚡ Fun fact **I am a military police officer**
+## 💻 Tecnologias e Ferramentas
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lucasbellini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasbellini" height="30" width="40" /></a>
-<a href="https://kaggle.com/lucasbellini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lucasbellini" height="30" width="40" /></a>
-<a href="https://instagram.com/ohbellini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ohbellini" height="30" width="40" /></a>
-</p>
+- **Linguagens:** Python, SQL
+- **Ferramentas e Frameworks:** Django, Pandas, PyTorch, Scikit-Learn, TensorFlow, Seaborn
+- **Bancos de Dados:** PostgreSQL, MySQL, SQLite, Supabase
+- **Visualização de Dados:** Microsoft Power BI, Excel avançado
+- **Outros:** Git, GitHub, CI/CD, Next.js, React, TypeScript
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 Projetos em Destaque
 
+- **[BELLUM - Sistema Bélico e Logístico de Uso Militar](https://github.com/lucasbellini)**: Sistema integrado desenvolvido em Next.js, React e Supabase para gestão logística e controle de materiais bélicos, garantindo eficiência operacional e segurança.
+
+## 🎓 Formação Acadêmica
+
+- **MBA em Tecnologia para Negócios: Data Science, Big Data e IA**  
+  PUCRS *(cursando)*
+
+- **Graduação em Ciência de Dados**  
+  Faculdade Descomplica *(conclusão 2024)*
+
+- **Graduação em Gestão Financeira**  
+  Faculdade Descomplica *(2024)*
+
+## 🌱 Atualmente Aprendendo
+
+- **Microsoft Power BI Data Analyst Professional Certificate**
+
+## 📫 Conecte-se Comigo
+
+- **LinkedIn:** [Lucas Bellini](https://www.linkedin.com/in/lucasbellini)
+- **Email:** lucas_bellini@hotmail.com.br
+- **Kaggle:** [lucasbellini](https://kaggle.com/lucasbellini)
+- **Instagram:** [@ohbellini](https://instagram.com/ohbellini)
+
+## ⚡ Curiosidade
+
+- Sou policial militar com atuação especializada na gestão de materiais bélicos, integrando minha experiência em segurança pública com minha paixão pela tecnologia e dados.
+
+---
+
+Fique à vontade para entrar em contato ou explorar meus projetos no GitHub! 🚀📊
