@@ -48,6 +48,10 @@ Apaixonado por transformar dados em insights valiosos, busco oportunidades para 
 - **Kaggle:** [lucasbellini](https://kaggle.com/lucasbellini)
 - **Instagram:** [@ohbellini](https://instagram.com/ohbellini)
 
+## 🌐 Meu Portfólio
+
+Conheça mais sobre meu trabalho, projetos e experiências acessando meu site portfólio: [Lucas Bellini Portfolio](https://lucas-bellini-github-io.vercel.app/).
+
 ## ⚡ Curiosidade
 
 - Sou policial militar com atuação especializada na gestão de materiais bélicos, integrando minha experiência em segurança pública com minha paixão pela tecnologia e dados.
@@ -55,3 +59,4 @@ Apaixonado por transformar dados em insights valiosos, busco oportunidades para 
 ---
 
 Fique à vontade para entrar em contato ou explorar meus projetos no GitHub! 🚀📊
+
