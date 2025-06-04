@@ -24,7 +24,7 @@ Apaixonado por transformar dados em insights valiosos, busco oportunidades para 
 
 ## 🚀 Projeto em Destaque
 
-- **[BELLUM - Sistema Bélico e Logístico de Uso Militar](https://github.com/lucasbellini)**: Sistema integrado desenvolvido em Next.js, React e Supabase para gestão logística e controle de materiais bélicos, garantindo eficiência operacional e segurança.
+- **[BELLUM - Sistema Bélico e Logístico de Uso Militar](https://github.com/Lucas-Bellini/BELLUM)**: Sistema integrado desenvolvido em Next.js, React e Supabase para gestão logística e controle de materiais bélicos, garantindo eficiência operacional e segurança.
 
 ## 🎓 Formação Acadêmica
 
